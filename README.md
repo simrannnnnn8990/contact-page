@@ -1,12 +1,12 @@
-# WriteNest Contact Page
+# Contact Page
 
-A modern contact page built using Next.js and Tailwind CSS.
+A modern and responsive contact page built using Next.js, Tailwind CSS, and Framer Motion.
 
 ## Features
+- Clean and modern UI
 - Responsive design
-- Smooth animations using Framer Motion
-- Clean UI with gradient styling
-- Form interaction handling
+- Smooth animations
+- Contact form with interaction
 
 ## Tech Stack
 - Next.js
